@@ -1,0 +1,22 @@
+Almost Almighty License (AAL) 
+Version 1, April 2017
+
+Copyright (C) 2017 Lilian Fornea
+
+Everyone is permitted to copy and distribute copies of this license
+document, but changing it is not allowed.
+
+Preamble 
+The Almost Almighty License (AAL) is a general public license
+for all kinds of works - audio, video, any form of text, software and
+hardware.
+
+TERMS AND CONDITIONS 
+0. Resource licensed by AAL license can be copied,
+distributed, modified and sold at any price and free of charge also;
+with and without any restrictions; with and without any warranty; by
+any person or companies as long as their name are used in resource. So,
+if you just copy or obtain resource for youself, you preserve name of
+the author. In case you modify the resource and distribute it, will be
+a goodwill if you mention a name of original author; nevertheless are
+not mandatory. But it is absolutely necessary to mention your name.
