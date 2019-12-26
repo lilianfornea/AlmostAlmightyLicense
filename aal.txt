@@ -1,5 +1,5 @@
 Almost Almighty License (AAL) 
-Version 1, April 2017
+1st Version, from 24th April 2017
 
 Copyright (C) 2017 Lilian Fornea
 
